@@ -4,19 +4,19 @@ This folder contains the Jupyter notebook used during the data exploration and c
 
 The notebook documents the workflow used to:
 
--Load the dataset
+- Load the dataset
 
--Inspect dataset structure
+- Inspect dataset structure
 
--Identify missing values and duplicates
+- Identify missing values and duplicates
 
--Removing duplicate records
+- Removing duplicate records
 
--Removing invalid transactions 
+- Removing invalid transactions 
 
--Extracting Year and Month from the transaction timestamp
+- Extracting Year and Month from the transaction timestamp
 
--Creating a Revenue column
+- Creating a Revenue column
 
--Generate the cleaned dataset used in the project
+- Generate the cleaned dataset used in the project
 
