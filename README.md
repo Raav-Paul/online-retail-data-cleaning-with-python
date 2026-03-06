@@ -9,7 +9,7 @@ This project demonstrates basic data cleaning and preparation using Python and P
 
 # Dataset
 
-- Dataset sourced from the UCI Online Retail Dataset
+- Dataset sourced from the [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 - Contains transactional sales data from a UK-based online retailer between 2010 and 2011
 
