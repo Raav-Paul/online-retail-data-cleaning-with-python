@@ -1,5 +1,0 @@
-# Data
-
-- Dataset sourced from the [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
-- Contains transactional sales data from a UK-based online retailer between 2010 and 2011
-- 541,909 transaction records across 8 columns
