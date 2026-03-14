@@ -31,7 +31,7 @@ This project demonstrates basic data cleaning and preparation using Python and P
 
 # Output
 
-- A sample of the cleaned dataset is available in: line-retail-data-cleaning-with-python/cleaned-data
+- A sample of the cleaned dataset is available in: [sample_online_retail.csv](https://github.com/Raav-Paul/online-retail-data-cleaning-with-python/blob/ebb76047551617d31973e64b1ec61456486d2b5e/cleaned-data/sample_online_retail.csv)
 
 # Purpose
 
