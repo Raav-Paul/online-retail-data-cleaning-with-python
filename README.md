@@ -5,6 +5,8 @@ This project demonstrates basic data cleaning and preparation using Python and P
 
 - Python(Pandas, Numpy)
 
+- Visual Studio Code
+
 - Jupyter Notebook
 
 # Dataset
