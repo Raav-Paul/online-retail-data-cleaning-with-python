@@ -3,7 +3,7 @@ This project demonstrates basic data cleaning and preparation using Python and P
 
 # Tools Used
 
-- Python(Pandas)
+- Python(Pandas, Numpy)
 
 - Jupyter Notebook
 
