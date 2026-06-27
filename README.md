@@ -25,8 +25,6 @@ This project demonstrates basic data cleaning and preparation using Python and P
 
 - Removing invalid transactions
 
-- Extracting Year and Month from the transaction timestamp
-
 - Creating a Revenue column
 
 - Generate the cleaned dataset used in the project
