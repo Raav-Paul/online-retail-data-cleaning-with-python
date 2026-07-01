@@ -10,13 +10,14 @@ The notebook documents the workflow used to:
 
 - Identify missing values and duplicates
 
-- Removing duplicate records
+- Removing duplicate and null records
+
+- Inspect invalid transactions
 
 - Removing invalid transactions 
 
-- Extracting Year and Month from the transaction timestamp
+- Calculating total revenue from quantity and unit price
 
-- Creating a Revenue column
+- Inspecting the shape and the first 5 rows of the cleaned dataset
 
-- Generate the cleaned dataset used in the project
-
+- Export the cleaned dataset to a new Excel file
